@@ -1,0 +1,18 @@
+# Model files (downloaded at runtime)
+heart_disease_model.pkl
+model_features.pkl
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
+
+# Virtual environment
+venv/
+env/
+
+
